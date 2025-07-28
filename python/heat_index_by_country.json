@@ -1,0 +1,1100 @@
+[
+  {
+    "country_code": "LUX",
+    "country_name": "Luxembourg",
+    "heat_index_2000": 80.2188720703125,
+    "heat_index_2025": 91.45030120567039,
+    "difference": 11.231429135357885,
+    "percent_change": 14.00098112263838,
+    "data_points": 4
+  },
+  {
+    "country_code": "BEL",
+    "country_name": "Belgium",
+    "heat_index_2000": 80.67996978759766,
+    "heat_index_2025": 91.73839930419922,
+    "difference": 11.058429516601564,
+    "percent_change": 13.706536511744574,
+    "data_points": 7
+  },
+  {
+    "country_code": "DEU",
+    "country_name": "Germany",
+    "heat_index_2000": 81.18519578798853,
+    "heat_index_2025": 86.7124642845998,
+    "difference": 5.527268496611271,
+    "percent_change": 6.808222167801975,
+    "data_points": 99
+  },
+  {
+    "country_code": "BTN",
+    "country_name": "Bhutan",
+    "heat_index_2000": 96.71126412147564,
+    "heat_index_2025": 101.05681786799246,
+    "difference": 4.345553746516828,
+    "percent_change": 4.4933274174335365,
+    "data_points": 87
+  },
+  {
+    "country_code": "LKA",
+    "country_name": "Sri Lanka",
+    "heat_index_2000": 89.50698386594821,
+    "heat_index_2025": 93.82027861592758,
+    "difference": 4.313294749979363,
+    "percent_change": 4.818947710761038,
+    "data_points": 265
+  },
+  {
+    "country_code": "FRA",
+    "country_name": "France",
+    "heat_index_2000": 82.4430590666967,
+    "heat_index_2025": 86.30900061066211,
+    "difference": 3.8659415439654055,
+    "percent_change": 4.689226221988981,
+    "data_points": 738
+  },
+  {
+    "country_code": "LTU",
+    "country_name": "Lithuania",
+    "heat_index_2000": 80.07947413126628,
+    "heat_index_2025": 83.93629732028384,
+    "difference": 3.856823189017561,
+    "percent_change": 4.81624440077548,
+    "data_points": 6
+  },
+  {
+    "country_code": "NPL",
+    "country_name": "Nepal",
+    "heat_index_2000": 98.6093266820478,
+    "heat_index_2025": 102.31257984952678,
+    "difference": 3.703253167478991,
+    "percent_change": 3.755479620522733,
+    "data_points": 301
+  },
+  {
+    "country_code": "ESP",
+    "country_name": "Spain",
+    "heat_index_2000": 84.2462414713544,
+    "heat_index_2025": 87.2699745775709,
+    "difference": 3.023733106216511,
+    "percent_change": 3.589160837809777,
+    "data_points": 1112
+  },
+  {
+    "country_code": "PHL",
+    "country_name": "Philippines",
+    "heat_index_2000": 88.69557289485353,
+    "heat_index_2025": 91.70771803866593,
+    "difference": 3.012145143812404,
+    "percent_change": 3.396049030973879,
+    "data_points": 3101
+  },
+  {
+    "country_code": "PAK",
+    "country_name": "Pakistan",
+    "heat_index_2000": 97.48958070887006,
+    "heat_index_2025": 100.39745957353344,
+    "difference": 2.907878864663374,
+    "percent_change": 2.9827586122737335,
+    "data_points": 2929
+  },
+  {
+    "country_code": "MDV",
+    "country_name": "Maldives",
+    "heat_index_2000": 87.6084577646945,
+    "heat_index_2025": 90.36502726191759,
+    "difference": 2.756569497223083,
+    "percent_change": 3.1464650417964077,
+    "data_points": 333
+  },
+  {
+    "country_code": "ITA",
+    "country_name": "Italy",
+    "heat_index_2000": 84.99147142539364,
+    "heat_index_2025": 87.68412691668217,
+    "difference": 2.6926554912885337,
+    "percent_change": 3.168147869580271,
+    "data_points": 1599
+  },
+  {
+    "country_code": "PRT",
+    "country_name": "Portugal",
+    "heat_index_2000": 84.45505184015579,
+    "heat_index_2025": 87.06167407696614,
+    "difference": 2.6066222368103524,
+    "percent_change": 3.086401796003615,
+    "data_points": 289
+  },
+  {
+    "country_code": "AFG",
+    "country_name": "Afghanistan",
+    "heat_index_2000": 94.24398640157055,
+    "heat_index_2025": 96.8253000401671,
+    "difference": 2.5813136385965407,
+    "percent_change": 2.7389690707666454,
+    "data_points": 1951
+  },
+  {
+    "country_code": "CHE",
+    "country_name": "Switzerland",
+    "heat_index_2000": 82.86497295946637,
+    "heat_index_2025": 85.39988823683078,
+    "difference": 2.534915277364405,
+    "percent_change": 3.059091419247027,
+    "data_points": 127
+  },
+  {
+    "country_code": "IND",
+    "country_name": "India",
+    "heat_index_2000": 92.44912528707074,
+    "heat_index_2025": 94.94255817575062,
+    "difference": 2.4934328886798767,
+    "percent_change": 2.6970865121085033,
+    "data_points": 11219
+  },
+  {
+    "country_code": "TKM",
+    "country_name": "Turkmenistan",
+    "heat_index_2000": 92.92109341976705,
+    "heat_index_2025": 95.22754085577071,
+    "difference": 2.3064474360036655,
+    "percent_change": 2.4821570120622543,
+    "data_points": 1964
+  },
+  {
+    "country_code": "UZB",
+    "country_name": "Uzbekistan",
+    "heat_index_2000": 91.9380123777128,
+    "heat_index_2025": 94.1911095750161,
+    "difference": 2.2530971973033047,
+    "percent_change": 2.450669901418807,
+    "data_points": 2497
+  },
+  {
+    "country_code": "KHM",
+    "country_name": "Cambodia",
+    "heat_index_2000": 89.20008958105258,
+    "heat_index_2025": 91.43363540071924,
+    "difference": 2.2335458196666593,
+    "percent_change": 2.5039726194861327,
+    "data_points": 475
+  },
+  {
+    "country_code": "CAN",
+    "country_name": "Canada",
+    "heat_index_2000": 80.04200090680804,
+    "heat_index_2025": 82.26726531982422,
+    "difference": 2.225264413016177,
+    "percent_change": 2.7801209212736024,
+    "data_points": 28
+  },
+  {
+    "country_code": "MLT",
+    "country_name": "Malta",
+    "heat_index_2000": 84.86116738891602,
+    "heat_index_2025": 87.08147891941746,
+    "difference": 2.220311530501448,
+    "percent_change": 2.6164046510529735,
+    "data_points": 25
+  },
+  {
+    "country_code": "SGP",
+    "country_name": "Singapore",
+    "heat_index_2000": 89.13984010851371,
+    "heat_index_2025": 91.27876059225972,
+    "difference": 2.1389204837460056,
+    "percent_change": 2.399511241148971,
+    "data_points": 25
+  },
+  {
+    "country_code": "MAR",
+    "country_name": "Morocco",
+    "heat_index_2000": 95.34634614357807,
+    "heat_index_2025": 97.46506576949481,
+    "difference": 2.1187196259167393,
+    "percent_change": 2.2221298577359727,
+    "data_points": 2644
+  },
+  {
+    "country_code": "BGD",
+    "country_name": "Bangladesh",
+    "heat_index_2000": 94.33124289122522,
+    "heat_index_2025": 96.39292630048699,
+    "difference": 2.061683409261775,
+    "percent_change": 2.185578548603598,
+    "data_points": 577
+  },
+  {
+    "country_code": "JPN",
+    "country_name": "Japan",
+    "heat_index_2000": 87.45046515669878,
+    "heat_index_2025": 89.44059647970087,
+    "difference": 1.990131323002089,
+    "percent_change": 2.2757241135722457,
+    "data_points": 5807
+  },
+  {
+    "country_code": "KEN",
+    "country_name": "Kenya",
+    "heat_index_2000": 84.32071081148743,
+    "heat_index_2025": 86.27130296817252,
+    "difference": 1.9505921566850901,
+    "percent_change": 2.3133013679710954,
+    "data_points": 1008
+  },
+  {
+    "country_code": "MMR",
+    "country_name": "Myanmar",
+    "heat_index_2000": 89.39054169514006,
+    "heat_index_2025": 91.31319760534412,
+    "difference": 1.9226559102040568,
+    "percent_change": 2.1508493781826883,
+    "data_points": 2591
+  },
+  {
+    "country_code": "NER",
+    "country_name": "Niger",
+    "heat_index_2000": 96.27375412974799,
+    "heat_index_2025": 98.16353939197782,
+    "difference": 1.889785262229836,
+    "percent_change": 1.9629288161786809,
+    "data_points": 3657
+  },
+  {
+    "country_code": "POL",
+    "country_name": "Poland",
+    "heat_index_2000": 81.86337019991713,
+    "heat_index_2025": 83.69807863953412,
+    "difference": 1.834708439616989,
+    "percent_change": 2.241183615011792,
+    "data_points": 245
+  },
+  {
+    "country_code": "VNM",
+    "country_name": "Viet Nam",
+    "heat_index_2000": 90.74593423306617,
+    "heat_index_2025": 92.57016496027693,
+    "difference": 1.824230727210761,
+    "percent_change": 2.010261663652634,
+    "data_points": 1937
+  },
+  {
+    "country_code": "HRV",
+    "country_name": "Croatia",
+    "heat_index_2000": 84.62611578231478,
+    "heat_index_2025": 86.39280413569621,
+    "difference": 1.7666883533814257,
+    "percent_change": 2.087639657154901,
+    "data_points": 526
+  },
+  {
+    "country_code": "UKR",
+    "country_name": "Ukraine",
+    "heat_index_2000": 84.70141252834203,
+    "heat_index_2025": 86.43378777803824,
+    "difference": 1.7323752496962044,
+    "percent_change": 2.045273151869259,
+    "data_points": 2073
+  },
+  {
+    "country_code": "THA",
+    "country_name": "Thailand",
+    "heat_index_2000": 89.48644342577467,
+    "heat_index_2025": 91.17224139882607,
+    "difference": 1.6857979730514074,
+    "percent_change": 1.8838585024889358,
+    "data_points": 2309
+  },
+  {
+    "country_code": "BIH",
+    "country_name": "Bosnia and Herzegovina",
+    "heat_index_2000": 85.0328600265557,
+    "heat_index_2025": 86.68358307843478,
+    "difference": 1.6507230518790834,
+    "percent_change": 1.9412766445390215,
+    "data_points": 326
+  },
+  {
+    "country_code": "PRK",
+    "country_name": "Korea, Democratic People's Republic of",
+    "heat_index_2000": 85.82963171129562,
+    "heat_index_2025": 87.46188947303925,
+    "difference": 1.632257761743631,
+    "percent_change": 1.9017415421681432,
+    "data_points": 425
+  },
+  {
+    "country_code": "LAO",
+    "country_name": "Lao People's Democratic Republic",
+    "heat_index_2000": 90.60299387717674,
+    "heat_index_2025": 92.21381634014371,
+    "difference": 1.610822462966965,
+    "percent_change": 1.777890987962968,
+    "data_points": 1232
+  },
+  {
+    "country_code": "MYS",
+    "country_name": "Malaysia",
+    "heat_index_2000": 89.50709254840844,
+    "heat_index_2025": 91.10794822685942,
+    "difference": 1.6008556784509835,
+    "percent_change": 1.788523828528099,
+    "data_points": 2082
+  },
+  {
+    "country_code": "MEX",
+    "country_name": "Mexico",
+    "heat_index_2000": 87.407054694837,
+    "heat_index_2025": 89.00465530504889,
+    "difference": 1.5976006102118845,
+    "percent_change": 1.8277707855384955,
+    "data_points": 5295
+  },
+  {
+    "country_code": "MLI",
+    "country_name": "Mali",
+    "heat_index_2000": 96.43816792164264,
+    "heat_index_2025": 98.01288439972382,
+    "difference": 1.5747164780811715,
+    "percent_change": 1.6328768080296283,
+    "data_points": 4451
+  },
+  {
+    "country_code": "CHN",
+    "country_name": "China",
+    "heat_index_2000": 88.65202868112483,
+    "heat_index_2025": 90.2037405646941,
+    "difference": 1.5517118835692685,
+    "percent_change": 1.7503399602401295,
+    "data_points": 25207
+  },
+  {
+    "country_code": "PNG",
+    "country_name": "Papua New Guinea",
+    "heat_index_2000": 86.09656707859449,
+    "heat_index_2025": 87.64151646526844,
+    "difference": 1.5449493866739488,
+    "percent_change": 1.7944378493786162,
+    "data_points": 1466
+  },
+  {
+    "country_code": "LBY",
+    "country_name": "Libya",
+    "heat_index_2000": 92.0572119441997,
+    "heat_index_2025": 93.59097419401712,
+    "difference": 1.5337622498174284,
+    "percent_change": 1.6660967863627192,
+    "data_points": 3418
+  },
+  {
+    "country_code": "DZA",
+    "country_name": "Algeria",
+    "heat_index_2000": 96.65159647782521,
+    "heat_index_2025": 98.17030899863585,
+    "difference": 1.518712520810638,
+    "percent_change": 1.5713268855927036,
+    "data_points": 5921
+  },
+  {
+    "country_code": "NGA",
+    "country_name": "Nigeria",
+    "heat_index_2000": 89.4990285603686,
+    "heat_index_2025": 91.01743362676497,
+    "difference": 1.5184050663963689,
+    "percent_change": 1.6965603882193863,
+    "data_points": 1959
+  },
+  {
+    "country_code": "SVN",
+    "country_name": "Slovenia",
+    "heat_index_2000": 83.99384166231195,
+    "heat_index_2025": 85.46762084275537,
+    "difference": 1.4737791804434153,
+    "percent_change": 1.7546276623095576,
+    "data_points": 119
+  },
+  {
+    "country_code": "TUN",
+    "country_name": "Tunisia",
+    "heat_index_2000": 92.4668194590587,
+    "heat_index_2025": 93.88532782542549,
+    "difference": 1.418508366366794,
+    "percent_change": 1.534072843280679,
+    "data_points": 674
+  },
+  {
+    "country_code": "IRN",
+    "country_name": "Iran, Islamic Republic of",
+    "heat_index_2000": 96.97867718649302,
+    "heat_index_2025": 98.27556371189091,
+    "difference": 1.2968865253978947,
+    "percent_change": 1.3372903848790818,
+    "data_points": 4670
+  },
+  {
+    "country_code": "IDN",
+    "country_name": "Indonesia",
+    "heat_index_2000": 86.938406765003,
+    "heat_index_2025": 88.19962020602334,
+    "difference": 1.2612134410203453,
+    "percent_change": 1.4506976697070622,
+    "data_points": 9665
+  },
+  {
+    "country_code": "RWA",
+    "country_name": "Rwanda",
+    "heat_index_2000": 81.04000081779367,
+    "heat_index_2025": 82.23931938723541,
+    "difference": 1.1993185694417434,
+    "percent_change": 1.4799093748015033,
+    "data_points": 75
+  },
+  {
+    "country_code": "BFA",
+    "country_name": "Burkina Faso",
+    "heat_index_2000": 92.09518795733754,
+    "heat_index_2025": 93.28521933884718,
+    "difference": 1.190031381509641,
+    "percent_change": 1.2921754196982742,
+    "data_points": 925
+  },
+  {
+    "country_code": "BDI",
+    "country_name": "Burundi",
+    "heat_index_2000": 81.34226872347023,
+    "heat_index_2025": 82.52875852922566,
+    "difference": 1.1864898057554285,
+    "percent_change": 1.4586386934805062,
+    "data_points": 123
+  },
+  {
+    "country_code": "TJK",
+    "country_name": "Tajikistan",
+    "heat_index_2000": 88.31318462776817,
+    "heat_index_2025": 89.49127234549594,
+    "difference": 1.1780877177277773,
+    "percent_change": 1.3339884895933798,
+    "data_points": 269
+  },
+  {
+    "country_code": "AUS",
+    "country_name": "Australia",
+    "heat_index_2000": 83.00616977505726,
+    "heat_index_2025": 84.17651694276388,
+    "difference": 1.1703471677066233,
+    "percent_change": 1.4099520202874172,
+    "data_points": 326
+  },
+  {
+    "country_code": "ETH",
+    "country_name": "Ethiopia",
+    "heat_index_2000": 89.90317772023083,
+    "heat_index_2025": 91.04094274748304,
+    "difference": 1.1377650272522146,
+    "percent_change": 1.2655448406871879,
+    "data_points": 2406
+  },
+  {
+    "country_code": "TZA",
+    "country_name": "Tanzania, United Republic of",
+    "heat_index_2000": 81.23786361376575,
+    "heat_index_2025": 82.325850677563,
+    "difference": 1.087987063797243,
+    "percent_change": 1.3392610482347589,
+    "data_points": 1522
+  },
+  {
+    "country_code": "KOR",
+    "country_name": "Korea, Republic of",
+    "heat_index_2000": 86.96325197779058,
+    "heat_index_2025": 88.04671665851158,
+    "difference": 1.0834646807210078,
+    "percent_change": 1.2458879539115124,
+    "data_points": 562
+  },
+  {
+    "country_code": "VEN",
+    "country_name": "Venezuela, Bolivarian Republic of",
+    "heat_index_2000": 85.17592789384113,
+    "heat_index_2025": 86.24721747746462,
+    "difference": 1.0712895836234821,
+    "percent_change": 1.2577374970997464,
+    "data_points": 582
+  },
+  {
+    "country_code": "TCD",
+    "country_name": "Chad",
+    "heat_index_2000": 94.30621911943423,
+    "heat_index_2025": 95.36206114012202,
+    "difference": 1.0558420206877912,
+    "percent_change": 1.119588963004252,
+    "data_points": 2920
+  },
+  {
+    "country_code": "GUF",
+    "country_name": "French Guiana",
+    "heat_index_2000": 85.8352925974678,
+    "heat_index_2025": 86.87680335053156,
+    "difference": 1.0415107530637613,
+    "percent_change": 1.213382888956898,
+    "data_points": 232
+  },
+  {
+    "country_code": "FJI",
+    "country_name": "Fiji",
+    "heat_index_2000": 84.86526573666552,
+    "heat_index_2025": 85.89536894848266,
+    "difference": 1.030103211817135,
+    "percent_change": 1.213810152923477,
+    "data_points": 227
+  },
+  {
+    "country_code": "MDG",
+    "country_name": "Madagascar",
+    "heat_index_2000": 81.86064620158157,
+    "heat_index_2025": 82.858208805947,
+    "difference": 0.9975626043654273,
+    "percent_change": 1.2186107130267854,
+    "data_points": 457
+  },
+  {
+    "country_code": "CZE",
+    "country_name": "Czechia",
+    "heat_index_2000": 82.3473717096696,
+    "heat_index_2025": 83.31366050713468,
+    "difference": 0.9662887974650829,
+    "percent_change": 1.1734300408177045,
+    "data_points": 154
+  },
+  {
+    "country_code": "SOM",
+    "country_name": "Somalia",
+    "heat_index_2000": 88.06710260060508,
+    "heat_index_2025": 89.01432564430911,
+    "difference": 0.9472230437040281,
+    "percent_change": 1.0755696687329417,
+    "data_points": 1605
+  },
+  {
+    "country_code": "BRN",
+    "country_name": "Brunei Darussalam",
+    "heat_index_2000": 89.943121408379,
+    "heat_index_2025": 90.88873451418982,
+    "difference": 0.9456131058108213,
+    "percent_change": 1.0513456626853612,
+    "data_points": 24
+  },
+  {
+    "country_code": "GUY",
+    "country_name": "Guyana",
+    "heat_index_2000": 85.15029931736855,
+    "heat_index_2025": 86.05878035466807,
+    "difference": 0.9084810372995236,
+    "percent_change": 1.066914672740576,
+    "data_points": 169
+  },
+  {
+    "country_code": "CIV",
+    "country_name": "C\u00f4te d'Ivoire",
+    "heat_index_2000": 86.43582077746468,
+    "heat_index_2025": 87.30865960947254,
+    "difference": 0.872838832007858,
+    "percent_change": 1.0098114695469198,
+    "data_points": 723
+  },
+  {
+    "country_code": "SUR",
+    "country_name": "Suriname",
+    "heat_index_2000": 85.47349378733249,
+    "heat_index_2025": 86.34029743996824,
+    "difference": 0.8668036526357525,
+    "percent_change": 1.014119833211049,
+    "data_points": 120
+  },
+  {
+    "country_code": "HUN",
+    "country_name": "Hungary",
+    "heat_index_2000": 85.0095155296416,
+    "heat_index_2025": 85.87138679697179,
+    "difference": 0.8618712673301872,
+    "percent_change": 1.013852698677791,
+    "data_points": 484
+  },
+  {
+    "country_code": "AUT",
+    "country_name": "Austria",
+    "heat_index_2000": 82.77834226601837,
+    "heat_index_2025": 83.62652975750096,
+    "difference": 0.8481874914825909,
+    "percent_change": 1.0246490425682073,
+    "data_points": 135
+  },
+  {
+    "country_code": "SVK",
+    "country_name": "Slovakia",
+    "heat_index_2000": 83.5673103241221,
+    "heat_index_2025": 84.38582101461205,
+    "difference": 0.8185106904899442,
+    "percent_change": 0.9794627675765666,
+    "data_points": 333
+  },
+  {
+    "country_code": "USA",
+    "country_name": "United States",
+    "heat_index_2000": 86.48512419815388,
+    "heat_index_2025": 87.2504478608535,
+    "difference": 0.7653236626996147,
+    "percent_change": 0.8849194237683149,
+    "data_points": 5526
+  },
+  {
+    "country_code": "MNE",
+    "country_name": "Montenegro",
+    "heat_index_2000": 84.66984169121717,
+    "heat_index_2025": 85.41082443798966,
+    "difference": 0.7409827467724881,
+    "percent_change": 0.8751436544251274,
+    "data_points": 163
+  },
+  {
+    "country_code": "GHA",
+    "country_name": "Ghana",
+    "heat_index_2000": 88.84030951880425,
+    "heat_index_2025": 89.54951015246183,
+    "difference": 0.7092006336575878,
+    "percent_change": 0.7982869910054466,
+    "data_points": 675
+  },
+  {
+    "country_code": "KGZ",
+    "country_name": "Kyrgyzstan",
+    "heat_index_2000": 86.66451557659262,
+    "heat_index_2025": 87.37038312371719,
+    "difference": 0.7058675471245692,
+    "percent_change": 0.8144827700568356,
+    "data_points": 543
+  },
+  {
+    "country_code": "COL",
+    "country_name": "Colombia",
+    "heat_index_2000": 86.5283250672053,
+    "heat_index_2025": 87.22540169905558,
+    "difference": 0.6970766318502797,
+    "percent_change": 0.8056051371719842,
+    "data_points": 607
+  },
+  {
+    "country_code": "UGA",
+    "country_name": "Uganda",
+    "heat_index_2000": 82.9991829399136,
+    "heat_index_2025": 83.6706658906457,
+    "difference": 0.6714829507320985,
+    "percent_change": 0.8090235673985029,
+    "data_points": 462
+  },
+  {
+    "country_code": "YEM",
+    "country_name": "Yemen",
+    "heat_index_2000": 96.8810620411188,
+    "heat_index_2025": 97.52191071729037,
+    "difference": 0.6408486761715722,
+    "percent_change": 0.6614798214119284,
+    "data_points": 1395
+  },
+  {
+    "country_code": "COD",
+    "country_name": "Congo, The Democratic Republic of the",
+    "heat_index_2000": 85.00477284013559,
+    "heat_index_2025": 85.64321992597516,
+    "difference": 0.638447085839573,
+    "percent_change": 0.7510720451430062,
+    "data_points": 6087
+  },
+  {
+    "country_code": "BRA",
+    "country_name": "Brazil",
+    "heat_index_2000": 84.38117580849054,
+    "heat_index_2025": 84.88409534576076,
+    "difference": 0.5029195372702162,
+    "percent_change": 0.596009160161065,
+    "data_points": 3973
+  },
+  {
+    "country_code": "KAZ",
+    "country_name": "Kazakhstan",
+    "heat_index_2000": 87.08763500281574,
+    "heat_index_2025": 87.56548599026726,
+    "difference": 0.477850987451518,
+    "percent_change": 0.5487013023560324,
+    "data_points": 9277
+  },
+  {
+    "country_code": "MWI",
+    "country_name": "Malawi",
+    "heat_index_2000": 80.72581323561147,
+    "heat_index_2025": 81.20099528866444,
+    "difference": 0.47518205305297556,
+    "percent_change": 0.5886370592093996,
+    "data_points": 314
+  },
+  {
+    "country_code": "DJI",
+    "country_name": "Djibouti",
+    "heat_index_2000": 100.63717777318939,
+    "heat_index_2025": 101.03839428846153,
+    "difference": 0.4012165152721394,
+    "percent_change": 0.39867623889093884,
+    "data_points": 169
+  },
+  {
+    "country_code": "MOZ",
+    "country_name": "Mozambique",
+    "heat_index_2000": 81.27599134343282,
+    "heat_index_2025": 81.67113460603625,
+    "difference": 0.39514326260342614,
+    "percent_change": 0.4861746452697733,
+    "data_points": 1545
+  },
+  {
+    "country_code": "ALB",
+    "country_name": "Albania",
+    "heat_index_2000": 86.0275717144492,
+    "heat_index_2025": 86.39150460539283,
+    "difference": 0.3639328909436301,
+    "percent_change": 0.42304215229000114,
+    "data_points": 206
+  },
+  {
+    "country_code": "SRB",
+    "country_name": "Serbia",
+    "heat_index_2000": 86.52781843800693,
+    "heat_index_2025": 86.7029145102016,
+    "difference": 0.1750960721946626,
+    "percent_change": 0.20235812638696146,
+    "data_points": 437
+  },
+  {
+    "country_code": "ZWE",
+    "country_name": "Zimbabwe",
+    "heat_index_2000": 80.16791657842842,
+    "heat_index_2025": 80.33592512186496,
+    "difference": 0.16800854343654237,
+    "percent_change": 0.20957079915152754,
+    "data_points": 667
+  },
+  {
+    "country_code": "GRC",
+    "country_name": "Greece",
+    "heat_index_2000": 86.74572491838771,
+    "heat_index_2025": 86.88480063968318,
+    "difference": 0.13907572129546963,
+    "percent_change": 0.1603257352755022,
+    "data_points": 1370
+  },
+  {
+    "country_code": "BWA",
+    "country_name": "Botswana",
+    "heat_index_2000": 79.37283098135914,
+    "heat_index_2025": 79.48098783596454,
+    "difference": 0.10815685460539726,
+    "percent_change": 0.1362643278161492,
+    "data_points": 800
+  },
+  {
+    "country_code": "RUS",
+    "country_name": "Russian Federation",
+    "heat_index_2000": 84.98560590182255,
+    "heat_index_2025": 85.00990898083363,
+    "difference": 0.024303079011076534,
+    "percent_change": 0.028596700291990677,
+    "data_points": 30764
+  },
+  {
+    "country_code": "ZAF",
+    "country_name": "South Africa",
+    "heat_index_2000": 80.14148183032908,
+    "heat_index_2025": 80.07055498904238,
+    "difference": -0.07092684128670612,
+    "percent_change": -0.08850203373687092,
+    "data_points": 738
+  },
+  {
+    "country_code": "NAM",
+    "country_name": "Namibia",
+    "heat_index_2000": 79.70002502288192,
+    "heat_index_2025": 79.5851609407257,
+    "difference": -0.1148640821562168,
+    "percent_change": -0.14412050952711655,
+    "data_points": 1403
+  },
+  {
+    "country_code": "ZMB",
+    "country_name": "Zambia",
+    "heat_index_2000": 80.72332529679571,
+    "heat_index_2025": 80.41167795622836,
+    "difference": -0.31164734056734744,
+    "percent_change": -0.38606851169908163,
+    "data_points": 1817
+  },
+  {
+    "country_code": "SSD",
+    "country_name": "South Sudan",
+    "heat_index_2000": 89.91969699379541,
+    "heat_index_2025": 89.54156979738597,
+    "difference": -0.37812719640943726,
+    "percent_change": -0.4205165375896769,
+    "data_points": 1934
+  },
+  {
+    "country_code": "AGO",
+    "country_name": "Angola",
+    "heat_index_2000": 82.31578932880218,
+    "heat_index_2025": 81.90430387987189,
+    "difference": -0.4114854489302928,
+    "percent_change": -0.4998864158207308,
+    "data_points": 2567
+  },
+  {
+    "country_code": "GEO",
+    "country_name": "Georgia",
+    "heat_index_2000": 87.25087179194765,
+    "heat_index_2025": 86.82271399245262,
+    "difference": -0.4281577994950254,
+    "percent_change": -0.4907203684061527,
+    "data_points": 396
+  },
+  {
+    "country_code": "ROU",
+    "country_name": "Romania",
+    "heat_index_2000": 86.63992940320924,
+    "heat_index_2025": 86.19845012809436,
+    "difference": -0.4414792751148724,
+    "percent_change": -0.5095563652415898,
+    "data_points": 939
+  },
+  {
+    "country_code": "ARM",
+    "country_name": "Armenia",
+    "heat_index_2000": 84.87411857168144,
+    "heat_index_2025": 84.37987015485135,
+    "difference": -0.49424841683008935,
+    "percent_change": -0.582331133621925,
+    "data_points": 266
+  },
+  {
+    "country_code": "CAF",
+    "country_name": "Central African Republic",
+    "heat_index_2000": 89.4717571146701,
+    "heat_index_2025": 88.96875813430528,
+    "difference": -0.502998980364822,
+    "percent_change": -0.5621874394622217,
+    "data_points": 2104
+  },
+  {
+    "country_code": "OMN",
+    "country_name": "Oman",
+    "heat_index_2000": 103.45949059210308,
+    "heat_index_2025": 102.94611767516977,
+    "difference": -0.5133729169333066,
+    "percent_change": -0.4962066930691921,
+    "data_points": 1609
+  },
+  {
+    "country_code": "FIN",
+    "country_name": "Finland",
+    "heat_index_2000": 82.60859220573701,
+    "heat_index_2025": 82.04086039423292,
+    "difference": -0.567731811504089,
+    "percent_change": -0.687255158749287,
+    "data_points": 664
+  },
+  {
+    "country_code": "MKD",
+    "country_name": "North Macedonia",
+    "heat_index_2000": 86.84613232511347,
+    "heat_index_2025": 86.21371535974701,
+    "difference": -0.6324169653664597,
+    "percent_change": -0.728203949254724,
+    "data_points": 169
+  },
+  {
+    "country_code": "NOR",
+    "country_name": "Norway",
+    "heat_index_2000": 82.55683546586471,
+    "heat_index_2025": 81.80211121978466,
+    "difference": -0.7547242460800447,
+    "percent_change": -0.9141874707541391,
+    "data_points": 550
+  },
+  {
+    "country_code": "AZE",
+    "country_name": "Azerbaijan",
+    "heat_index_2000": 87.50233679997734,
+    "heat_index_2025": 86.73041837996608,
+    "difference": -0.7719184200112608,
+    "percent_change": -0.8821689205578572,
+    "data_points": 465
+  },
+  {
+    "country_code": "SWE",
+    "country_name": "Sweden",
+    "heat_index_2000": 82.69934191022601,
+    "heat_index_2025": 81.80983991124776,
+    "difference": -0.8895019989782469,
+    "percent_change": -1.0755853413487169,
+    "data_points": 14
+  },
+  {
+    "country_code": "ERI",
+    "country_name": "Eritrea",
+    "heat_index_2000": 100.01934549840983,
+    "heat_index_2025": 99.11660884408282,
+    "difference": -0.9027366543270148,
+    "percent_change": -0.902562049200139,
+    "data_points": 737
+  },
+  {
+    "country_code": "MNG",
+    "country_name": "Mongolia",
+    "heat_index_2000": 83.97006358255211,
+    "heat_index_2025": 83.00411530536586,
+    "difference": -0.9659482771862571,
+    "percent_change": -1.150348393194463,
+    "data_points": 4144
+  },
+  {
+    "country_code": "SDN",
+    "country_name": "Sudan",
+    "heat_index_2000": 95.58166659709966,
+    "heat_index_2025": 94.58749768298486,
+    "difference": -0.9941689141147947,
+    "percent_change": -1.040125109248683,
+    "data_points": 3856
+  },
+  {
+    "country_code": "EGY",
+    "country_name": "Egypt",
+    "heat_index_2000": 95.39949925527927,
+    "heat_index_2025": 93.99102693190093,
+    "difference": -1.4084723233783336,
+    "percent_change": -1.4763938326441381,
+    "data_points": 1661
+  },
+  {
+    "country_code": "BGR",
+    "country_name": "Bulgaria",
+    "heat_index_2000": 89.1312826036672,
+    "heat_index_2025": 87.49748865453026,
+    "difference": -1.633793949136944,
+    "percent_change": -1.8330196777284158,
+    "data_points": 373
+  },
+  {
+    "country_code": "TUR",
+    "country_name": "T\u00fcrkiye",
+    "heat_index_2000": 89.819001537635,
+    "heat_index_2025": 88.07200801371211,
+    "difference": -1.746993523922896,
+    "percent_change": -1.9450155245723695,
+    "data_points": 1871
+  },
+  {
+    "country_code": "SAU",
+    "country_name": "Saudi Arabia",
+    "heat_index_2000": 102.33820022387597,
+    "heat_index_2025": 100.30868147355612,
+    "difference": -2.029518750319852,
+    "percent_change": -1.983148761537782,
+    "data_points": 6126
+  },
+  {
+    "country_code": "KWT",
+    "country_name": "Kuwait",
+    "heat_index_2000": 109.40820828278413,
+    "heat_index_2025": 106.92418338209843,
+    "difference": -2.4840249006856965,
+    "percent_change": -2.270419139179495,
+    "data_points": 169
+  },
+  {
+    "country_code": "ARE",
+    "country_name": "United Arab Emirates",
+    "heat_index_2000": 111.85121344499417,
+    "heat_index_2025": 108.42949803362778,
+    "difference": -3.4217154113663923,
+    "percent_change": -3.05916700049849,
+    "data_points": 525
+  },
+  {
+    "country_code": "ISR",
+    "country_name": "Israel",
+    "heat_index_2000": 93.4582033849699,
+    "heat_index_2025": 89.82906505507239,
+    "difference": -3.629138329897515,
+    "percent_change": -3.883167232466999,
+    "data_points": 189
+  },
+  {
+    "country_code": "LBN",
+    "country_name": "Lebanon",
+    "heat_index_2000": 91.84041480561982,
+    "heat_index_2025": 88.10001817971444,
+    "difference": -3.740396625905376,
+    "percent_change": -4.072713122890312,
+    "data_points": 81
+  },
+  {
+    "country_code": "PSE",
+    "country_name": "Palestine, State of",
+    "heat_index_2000": 94.46948808553829,
+    "heat_index_2025": 90.68108756558524,
+    "difference": -3.7884005199530435,
+    "percent_change": -4.0101842369705665,
+    "data_points": 81
+  },
+  {
+    "country_code": "IRQ",
+    "country_name": "Iraq",
+    "heat_index_2000": 101.85025138177083,
+    "heat_index_2025": 97.71889764439479,
+    "difference": -4.131353737376045,
+    "percent_change": -4.056301954415672,
+    "data_points": 1665
+  },
+  {
+    "country_code": "JOR",
+    "country_name": "Jordan",
+    "heat_index_2000": 97.22719118800731,
+    "heat_index_2025": 91.75318728477669,
+    "difference": -5.474003903230624,
+    "percent_change": -5.630116263099275,
+    "data_points": 525
+  },
+  {
+    "country_code": "SYR",
+    "country_name": "Syrian Arab Republic",
+    "heat_index_2000": 100.4934031474844,
+    "heat_index_2025": 94.86657658534276,
+    "difference": -5.626826562141645,
+    "percent_change": -5.599199933436126,
+    "data_points": 825
+  },
+  {
+    "country_code": "BHR",
+    "country_name": "Bahrain",
+    "heat_index_2000": 113.45608575449245,
+    "heat_index_2025": 105.70652438332299,
+    "difference": -7.749561371169463,
+    "percent_change": -6.830450142567701,
+    "data_points": 45
+  },
+  {
+    "country_code": "QAT",
+    "country_name": "Qatar",
+    "heat_index_2000": 113.78496731083071,
+    "heat_index_2025": 106.02566056707388,
+    "difference": -7.759306743756824,
+    "percent_change": -6.8192722880171255,
+    "data_points": 117
+  }
+]
