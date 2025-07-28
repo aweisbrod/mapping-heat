@@ -4,3 +4,7 @@
 /data
 /node_modules
 /vite.config.js
+
+# Large NetCDF files - too big for GitHub
+*.nc
+python/*.nc
