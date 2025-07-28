@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌡️</text></svg>">
+    <link href="https://fonts.cdnfonts.com/css/avenir" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Heat Index Mapping | Climate Change Visualization</title>
+
+    <meta name="description" content="Global heat index mapping visualizing temperature changes from 2000 to 2025. Explore the impact of climate change on heat indexes across different regions.">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="author" content="Amanda Weisbrod">
+
+    <!-- Meta Tags for Social Media -->
+    <meta property="og:image" content="preview.png">
+    <meta property="og:url" content="https://aweisbrod/mapping-heat/main/preview.png">
+    <meta property="og:title" content="Heat Index Mapping">
+    <meta property="og:description" content="Explore the global heat index mapping visualizing temperature changes from 2000 to 2025. Understand the impact of climate change on heat indexes
+    across different regions.">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Heat Index Mapping">
+    <meta name="twitter:description" content="Explore the global heat index mapping visualizing temperature changes from 2000 to 2025. Understand the impact of climate change on heat indexes
+    across different regions.">
+    <meta name="twitter:image" content="https://aweisbrod/mapping-heat/main/preview.png">
+
+  </head>
+  <body>
+    <div id="app" style="margin-bottom: 120px;"></div>
+
+    <!-- heatIndexBarChart graphic -->
+    <div id="heatIndexBarChart"></div>
+    <script>
+        fetch('bar_chart/ai2html-output/heat-index-bar-chart.html')
+            .then(response => response.text())
+            .then(html => {
+                document.getElementById('heatIndexBarChart').innerHTML = html;
+            });
+    </script>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
