@@ -364,10 +364,6 @@ function resetZoom() {
     transform: scale(0.95);
   }
 
-  :global(body) {
-    background: rgb(40, 40, 40);
-  }
-
   .globe-svg {
     width: 100%;
     height: auto;
