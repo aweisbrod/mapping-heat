@@ -311,6 +311,7 @@ function resetZoom() {
   .chart-container {
     max-width: 468px;
     width: 100%;
+    height: auto;
     margin: 0 auto;
     position: relative;
     padding: 0 20px;
@@ -318,7 +319,8 @@ function resetZoom() {
 
   @media (max-width: 500px) {
     .chart-container {
-      padding: 0 10px;
+      width: 80%;
+      height: auto;
     }
   }
 
