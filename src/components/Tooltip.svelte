@@ -186,7 +186,7 @@
     /* Responsive design for smaller screens */
     @media (max-width: 640px) {
         div {
-            left: 40px; /* Larger left margin on mobile */
+            left: 22px; /* Larger left margin on mobile */
             min-width: 200px;
             max-width: 280px;
             padding: 0 15px;
@@ -211,7 +211,7 @@
     
     @media (max-width: 480px) {
         div {
-            left: 60px; /* Even larger left margin on very small screens */
+            left: 0px; /* Larger left margin on mobile */
             min-width: 180px;
             max-width: 240px;
             padding: 0 10px;
