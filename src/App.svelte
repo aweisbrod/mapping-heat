@@ -289,7 +289,7 @@ function resetZoom() {
   @media (max-width: 640px) {
     .header {
       margin: 2rem auto;
-      padding: 0 4rem;
+      padding: 0 2rem;
     }
     
     h1 {
